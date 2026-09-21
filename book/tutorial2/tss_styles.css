@@ -34,18 +34,25 @@ url('Quicksand-Regular.ttf') format('truetype')
 
 
 /* Heading Styles */
-  h1{
-   font-size: 2.2em;
-  }
+  h1 {font-size: 2.2em;}
+  h2 {font-size:1.5em;}
+
+   h1{color: white;
+   background-color: rgb(222, 128, 60);}
+
 
     h2 {
       font-size: 1.5em;
+      color: white;
+      background-color: rgb(235, 177, 131);
     }
 
-h1, h2 { 
+ h1,h2 { 
    font-family: Quicksand, Verdana, Geneva, Sans-serif;
-   letter-spacing: 0.1em
-}
+   letter-spacing: 0.1em 
+} 
+
+
 
 article#about_tss h1 {
    color:white;
@@ -58,8 +65,9 @@ background-color: rgb(235,177, 131);
 }
 
 
-article.syllabus h1, article.syllbus h2 {background-color: rgb(255, 185, 255);
-                                         color: rgb(101, 101, 101);
+article.syllabus h1, article.syllbus h2 
+{background-color: rgb(255, 185, 255);
+ color: rgb(101, 101, 101);
 }
 
 
