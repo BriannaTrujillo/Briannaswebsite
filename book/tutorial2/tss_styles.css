@@ -35,7 +35,7 @@
 { 
    color: rgb(91, 91, 91);
    background-color: ivory;
-   font-family: Verdane, Geneva, sans-serif;
+   font-family: Verdana, Geneva, sans-serif;
 }
 
 
@@ -148,7 +148,7 @@ aside blockquote: :before
      margin-top: 20px;
 }
 
- nav > ul > li > a:link, nav > ul > li > a:visited 
+ nav > ul > li > a:visited, nav > ul > li > a:link
 
 {
    color: rgb(151, 151, 151);
