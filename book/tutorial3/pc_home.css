@@ -22,7 +22,7 @@
    min-width: 640px;
    width: 95%;
 }
-
+ 
 
 /* Body Header Styles */
 
@@ -44,7 +44,7 @@ body > header > nav.horizontalNavigation li
   float: left; 
 }
 
-nav.horizontalNavigation li a 
+nav.horizontalNavigation  a 
 { display: block;
   text-align: center;
 }
@@ -63,7 +63,7 @@ section#leftColumn
 /* Right Column Styles */
 
 section#rightColumn 
-{ float: right;
+{ float: left;
   width: 67%;
 }
 

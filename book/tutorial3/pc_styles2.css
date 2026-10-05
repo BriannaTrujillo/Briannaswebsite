@@ -96,6 +96,7 @@ h2 {
    font-size: 1.3em;
    background-color: rgb(102, 72, 38);
    color: black;
+   text-align: left;
 }
 
 
@@ -119,13 +120,14 @@ img {
 }
 
 
-/* Right Column Styles */
+/* Right Column Styles */ 
 
 aside {
    background-color: rgb(123, 89, 49);
    padding-bottom: 2em;
    margin-left: 1em;
 }
+
 
 
 aside > h2 {
@@ -135,19 +137,19 @@ aside > h2 {
 }
 
 dl {
-   font-size: 0.9em;
+   font-size: 1em;
 }
 
 dl > dt {
    color: black;
-   margin: 1em;
-   font-family: cursive;
+  margin: 1em;
+   font-family: Champagne;
 }
 
 dl > dd {
    margin: 0 1em 0 1em;
    color: rgb(189, 170, 96);
-   font-family: cursive;
+   font-family: Champagne;
 }
 
 /* Footer Styles */
